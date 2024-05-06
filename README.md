@@ -1,4 +1,4 @@
-# Ejecutar Script en TypeScript para Obtener Posts
+# Script en TypeScript para Obtener Posts
 
 Este script en TypeScript utiliza Axios para obtener datos de una API RESTful y muestra algunos procesamientos simples de los datos recibidos.
 
